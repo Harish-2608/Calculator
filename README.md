@@ -5,6 +5,6 @@ This is a simple calculator program written in Java. It performs basic arithmeti
 # How to Use
 
 Clone the repository or download the source code files.
-Open the project in your Java IDE (Integrated Development Environment) of choice.
+Open the project in any Java IDE (Integrated Development Environment).
 Locate the Calculator.java file in the project structure.
 Compile and run the Calculator.java file.
